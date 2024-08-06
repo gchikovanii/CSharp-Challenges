@@ -22,16 +22,13 @@ while (fibonacciNumber != -1)
     }
     else
     {
-        Console.Write("{0}, {1}, ", firstNum, secondNum);
+        Console.Write("{0}, {1}", firstNum, secondNum);
         for (int i = 2; i < fibonacciNumber; i++)
         {
             temp = firstNum + secondNum;
             firstNum = secondNum;
             secondNum = temp;
-            if(fibonacciNumber - 1 == i)
-                Console.Write(" {0}", temp);
-            else
-                Console.Write(" {0},", temp);
+            Console.Write(", {0}", temp);
         }
         Console.WriteLine();
         firstNum = 0;
