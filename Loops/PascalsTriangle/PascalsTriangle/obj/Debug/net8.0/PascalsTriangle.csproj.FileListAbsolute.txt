@@ -1,0 +1,15 @@
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.exe
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.deps.json
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.runtimeconfig.json
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.dll
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.pdb
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.AssemblyInfoInputs.cache
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.AssemblyInfo.cs
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.csproj.CoreCompileInputs.cache
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.sourcelink.json
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.dll
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\refint\PascalsTriangle.dll
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.pdb
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.genruntimeconfig.cache
+D:\C#\Loops\PascalsTriangle\PascalsTriangle\obj\Debug\net8.0\ref\PascalsTriangle.dll
