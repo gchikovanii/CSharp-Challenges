@@ -1,0 +1,15 @@
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.exe
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.deps.json
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.runtimeconfig.json
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.dll
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.pdb
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.AssemblyInfoInputs.cache
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.AssemblyInfo.cs
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.sourcelink.json
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.dll
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\refint\WeatherConsoleApp.dll
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.pdb
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.genruntimeconfig.cache
+D:\C#\Loops\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net8.0\ref\WeatherConsoleApp.dll
