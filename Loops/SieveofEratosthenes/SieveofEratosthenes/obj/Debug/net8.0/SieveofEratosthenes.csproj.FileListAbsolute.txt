@@ -1,0 +1,15 @@
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\bin\Debug\net8.0\SieveofEratosthenes.exe
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\bin\Debug\net8.0\SieveofEratosthenes.deps.json
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\bin\Debug\net8.0\SieveofEratosthenes.runtimeconfig.json
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\bin\Debug\net8.0\SieveofEratosthenes.dll
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\bin\Debug\net8.0\SieveofEratosthenes.pdb
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\SieveofEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\SieveofEratosthenes.AssemblyInfoInputs.cache
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\SieveofEratosthenes.AssemblyInfo.cs
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\SieveofEratosthenes.csproj.CoreCompileInputs.cache
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\SieveofEratosthenes.sourcelink.json
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\SieveofEratosthenes.dll
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\refint\SieveofEratosthenes.dll
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\SieveofEratosthenes.pdb
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\SieveofEratosthenes.genruntimeconfig.cache
+D:\C#\Loops\SieveofEratosthenes\SieveofEratosthenes\obj\Debug\net8.0\ref\SieveofEratosthenes.dll
