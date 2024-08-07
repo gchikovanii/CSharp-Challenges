@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Loops\\PrimeNumbersFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD6C695-955A-4FA7-BC92-D81231CC524E}|PrimeNumbersFinder\\PrimeNumbersFinder.csproj|d:\\c#\\loops\\primenumbersfinder\\primenumbersfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD6C695-955A-4FA7-BC92-D81231CC524E}|PrimeNumbersFinder\\PrimeNumbersFinder.csproj|solutionrelative:primenumbersfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Loops\\PrimeNumbersFinder\\PrimeNumbersFinder\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeNumbersFinder\\Program.cs",
+              "ToolTip": "D:\\C#\\Loops\\PrimeNumbersFinder\\PrimeNumbersFinder\\Program.cs",
+              "RelativeToolTip": "PrimeNumbersFinder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:40:39.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

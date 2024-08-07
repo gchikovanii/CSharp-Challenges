@@ -1,0 +1,15 @@
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\bin\Debug\net8.0\PrimeNumbersFinder.exe
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\bin\Debug\net8.0\PrimeNumbersFinder.deps.json
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\bin\Debug\net8.0\PrimeNumbersFinder.runtimeconfig.json
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\bin\Debug\net8.0\PrimeNumbersFinder.dll
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\bin\Debug\net8.0\PrimeNumbersFinder.pdb
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\PrimeNumbersFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\PrimeNumbersFinder.AssemblyInfoInputs.cache
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\PrimeNumbersFinder.AssemblyInfo.cs
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\PrimeNumbersFinder.csproj.CoreCompileInputs.cache
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\PrimeNumbersFinder.sourcelink.json
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\PrimeNumbersFinder.dll
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\refint\PrimeNumbersFinder.dll
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\PrimeNumbersFinder.pdb
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\PrimeNumbersFinder.genruntimeconfig.cache
+D:\C#\Loops\PrimeNumbersFinder\PrimeNumbersFinder\obj\Debug\net8.0\ref\PrimeNumbersFinder.dll
