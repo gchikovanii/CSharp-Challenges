@@ -1,0 +1,15 @@
+D:\C#\Loops\KnightsTour\KnightsTour\bin\Debug\net8.0\KnightsTour.exe
+D:\C#\Loops\KnightsTour\KnightsTour\bin\Debug\net8.0\KnightsTour.deps.json
+D:\C#\Loops\KnightsTour\KnightsTour\bin\Debug\net8.0\KnightsTour.runtimeconfig.json
+D:\C#\Loops\KnightsTour\KnightsTour\bin\Debug\net8.0\KnightsTour.dll
+D:\C#\Loops\KnightsTour\KnightsTour\bin\Debug\net8.0\KnightsTour.pdb
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\KnightsTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\KnightsTour.AssemblyInfoInputs.cache
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\KnightsTour.AssemblyInfo.cs
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\KnightsTour.csproj.CoreCompileInputs.cache
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\KnightsTour.sourcelink.json
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\KnightsTour.dll
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\refint\KnightsTour.dll
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\KnightsTour.pdb
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\KnightsTour.genruntimeconfig.cache
+D:\C#\Loops\KnightsTour\KnightsTour\obj\Debug\net8.0\ref\KnightsTour.dll
