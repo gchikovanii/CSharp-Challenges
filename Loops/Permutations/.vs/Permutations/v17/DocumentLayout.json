@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Loops\\Permutations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD33C940-E154-41ED-A9EC-AEB49A6F128A}|Permutations\\Permutations.csproj|d:\\c#\\loops\\permutations\\permutations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD33C940-E154-41ED-A9EC-AEB49A6F128A}|Permutations\\Permutations.csproj|solutionrelative:permutations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Loops\\Permutations\\Permutations\\Program.cs",
+              "RelativeDocumentMoniker": "Permutations\\Program.cs",
+              "ToolTip": "D:\\C#\\Loops\\Permutations\\Permutations\\Program.cs*",
+              "RelativeToolTip": "Permutations\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:58:42.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

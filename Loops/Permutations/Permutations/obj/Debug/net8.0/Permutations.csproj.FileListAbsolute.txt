@@ -1,0 +1,15 @@
+D:\C#\Loops\Permutations\Permutations\bin\Debug\net8.0\Permutations.exe
+D:\C#\Loops\Permutations\Permutations\bin\Debug\net8.0\Permutations.deps.json
+D:\C#\Loops\Permutations\Permutations\bin\Debug\net8.0\Permutations.runtimeconfig.json
+D:\C#\Loops\Permutations\Permutations\bin\Debug\net8.0\Permutations.dll
+D:\C#\Loops\Permutations\Permutations\bin\Debug\net8.0\Permutations.pdb
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\Permutations.AssemblyInfoInputs.cache
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\Permutations.AssemblyInfo.cs
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\Permutations.csproj.CoreCompileInputs.cache
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\Permutations.sourcelink.json
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\Permutations.dll
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\refint\Permutations.dll
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\Permutations.pdb
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\Permutations.genruntimeconfig.cache
+D:\C#\Loops\Permutations\Permutations\obj\Debug\net8.0\ref\Permutations.dll

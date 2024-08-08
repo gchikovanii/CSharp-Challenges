@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C23773F-6837-490D-AFEC-0006F2372F8E}|QuizApp\\QuizApp.csproj|d:\\c#\\loops\\quizapp\\quizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C23773F-6837-490D-AFEC-0006F2372F8E}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C23773F-6837-490D-AFEC-0006F2372F8E}|QuizApp\\QuizApp.csproj|d:\\c#\\loops\\quizapp\\quizapp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C23773F-6837-490D-AFEC-0006F2372F8E}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C23773F-6837-490D-AFEC-0006F2372F8E}|QuizApp\\QuizApp.csproj|d:\\c#\\loops\\quizapp\\quizapp\\quizz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C23773F-6837-490D-AFEC-0006F2372F8E}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\quizz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\C#\\Loops\\QuizApp\\QuizApp\\Question.cs",
+              "RelativeDocumentMoniker": "QuizApp\\Question.cs",
+              "ToolTip": "D:\\C#\\Loops\\QuizApp\\QuizApp\\Question.cs",
+              "RelativeToolTip": "QuizApp\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:24:38.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quizz.cs",
+              "DocumentMoniker": "D:\\C#\\Loops\\QuizApp\\QuizApp\\Quizz.cs",
+              "RelativeDocumentMoniker": "QuizApp\\Quizz.cs",
+              "ToolTip": "D:\\C#\\Loops\\QuizApp\\QuizApp\\Quizz.cs",
+              "RelativeToolTip": "QuizApp\\Quizz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:24:10.238Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "QuizApp\\Program.cs",
               "ToolTip": "D:\\C#\\Loops\\QuizApp\\QuizApp\\Program.cs",
               "RelativeToolTip": "QuizApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T12:23:50.662Z",
               "EditorCaption": ""
