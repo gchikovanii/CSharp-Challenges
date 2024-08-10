@@ -2,26 +2,19 @@
 
 namespace LibraryManagementSystem.Books
 {
-    public class Book 
+    public sealed class Book : BaseBook
     {
-        public Book(string title, string author, Guid iSBN, string publisher, string publishedDate, Genre genre)
+        public Condition Condition { get; private set; }
+        public Book(string title, string author, Guid iSBN, string publisher, string publishedDate, Genre genre, Condition condition
+            ) : base(title, author, iSBN, publisher, publishedDate, genre)
         {
-            Title = title;
-            Author = author;
-            ISBN = iSBN;
-            Publisher = publisher;
-            PublishedDate = publishedDate;
-            Genre = genre;
+            Condition = condition;
         }
-        public Book()
-        {
-        }
-        public string Title { get; private set; }
-        public string Author { get; private set; }
-        public Guid ISBN { get; private set; }
-        public string Publisher { get; private set; }
-        public string PublishedDate { get; private set; }
-        public Genre Genre { get; private set; }
 
+        public override void Information()
+        {
+            base.Information();
+            Console.Write(" Condition - {0}",Condition.ToString());
+        }
     }
 }
