@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\C#\\OOP\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93B12A3B-5D2D-440C-BEB0-3093C6A5120D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\c#\\oop\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B12A3B-5D2D-440C-BEB0-3093C6A5120D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93B12A3B-5D2D-440C-BEB0-3093C6A5120D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\c#\\oop\\librarymanagementsystem\\librarymanagementsystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B12A3B-5D2D-440C-BEB0-3093C6A5120D}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Member.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Member.cs",
               "ToolTip": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Member.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Member.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T07:16:13.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ILoan.cs",
               "DocumentMoniker": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Loans\\ILoan.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Loans\\ILoan.cs",
@@ -68,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Books\\Book.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Books\\Book.cs",
@@ -81,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "BaseBook.cs",
               "DocumentMoniker": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Books\\BaseBook.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Books\\BaseBook.cs",
@@ -94,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Library.cs",
               "DocumentMoniker": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Libraries\\Library.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Libraries\\Library.cs",
@@ -107,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Loan.cs",
               "DocumentMoniker": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Loans\\Loan.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Loans\\Loan.cs",
@@ -116,19 +112,6 @@
               "ViewState": "AQIAACAAAAAAAAAAAAAUwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T07:10:29.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
-              "ToolTip": "D:\\C#\\OOP\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T06:57:03.88Z",
               "EditorCaption": ""
             }
           ]

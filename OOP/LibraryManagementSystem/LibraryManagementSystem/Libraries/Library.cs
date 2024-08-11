@@ -8,9 +8,9 @@ namespace LibraryManagementSystem.Libraries
         //Has A relatioship
         private readonly List<Book> Books;
 
-        public Library(List<Book> books)
+        public Library(List<Book> booksList)
         {
-            Books = books;
+            Books = booksList;
         }
 
         public Guid AddBook(Book book)
