@@ -1,0 +1,15 @@
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\bin\Debug\net8.0\SortingTask.exe
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\bin\Debug\net8.0\SortingTask.deps.json
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\bin\Debug\net8.0\SortingTask.runtimeconfig.json
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\bin\Debug\net8.0\SortingTask.dll
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\bin\Debug\net8.0\SortingTask.pdb
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\SortingTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\SortingTask.AssemblyInfoInputs.cache
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\SortingTask.AssemblyInfo.cs
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\SortingTask.csproj.CoreCompileInputs.cache
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\SortingTask.sourcelink.json
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\SortingTask.dll
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\refint\SortingTask.dll
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\SortingTask.pdb
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\SortingTask.genruntimeconfig.cache
+D:\C#\EventsAndDelegates\SortingTask\SortingTask\obj\Debug\net8.0\ref\SortingTask.dll
