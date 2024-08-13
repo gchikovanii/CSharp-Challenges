@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TemperatureMonitor.cs",
-              "DocumentMoniker": "D:\\C#\\EventsAndDelegates\\TemepratureSecurity\\TemepratureSecurity\\TemperatureMonitor.cs",
-              "RelativeDocumentMoniker": "TemepratureSecurity\\TemperatureMonitor.cs",
-              "ToolTip": "D:\\C#\\EventsAndDelegates\\TemepratureSecurity\\TemepratureSecurity\\TemperatureMonitor.cs",
-              "RelativeToolTip": "TemepratureSecurity\\TemperatureMonitor.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAwAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:12:23.774Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "TemepratureSecurity\\Program.cs",
               "ToolTip": "D:\\C#\\EventsAndDelegates\\TemepratureSecurity\\TemepratureSecurity\\Program.cs",
               "RelativeToolTip": "TemepratureSecurity\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:11:47.818Z",
+              "WhenOpened": "2024-08-13T04:47:40.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperatureMonitor.cs",
+              "DocumentMoniker": "D:\\C#\\EventsAndDelegates\\TemepratureSecurity\\TemepratureSecurity\\TemperatureMonitor.cs",
+              "RelativeDocumentMoniker": "TemepratureSecurity\\TemperatureMonitor.cs",
+              "ToolTip": "D:\\C#\\EventsAndDelegates\\TemepratureSecurity\\TemepratureSecurity\\TemperatureMonitor.cs",
+              "RelativeToolTip": "TemepratureSecurity\\TemperatureMonitor.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:12:23.774Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemepratureSecurity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ab3dcc072dc43f2a0865ef9d6d36902cb4419ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+836650259b132a645d92ebb41fbe2035fff5fdcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemepratureSecurity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemepratureSecurity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
