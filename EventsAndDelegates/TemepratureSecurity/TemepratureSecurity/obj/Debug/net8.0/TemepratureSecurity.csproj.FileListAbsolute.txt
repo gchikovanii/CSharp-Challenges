@@ -1,0 +1,15 @@
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\bin\Debug\net8.0\TemepratureSecurity.exe
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\bin\Debug\net8.0\TemepratureSecurity.deps.json
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\bin\Debug\net8.0\TemepratureSecurity.runtimeconfig.json
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\bin\Debug\net8.0\TemepratureSecurity.dll
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\bin\Debug\net8.0\TemepratureSecurity.pdb
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\TemepratureSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\TemepratureSecurity.AssemblyInfoInputs.cache
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\TemepratureSecurity.AssemblyInfo.cs
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\TemepratureSecurity.csproj.CoreCompileInputs.cache
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\TemepratureSecurity.sourcelink.json
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\TemepratureSecurity.dll
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\refint\TemepratureSecurity.dll
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\TemepratureSecurity.pdb
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\TemepratureSecurity.genruntimeconfig.cache
+D:\C#\EventsAndDelegates\TemepratureSecurity\TemepratureSecurity\obj\Debug\net8.0\ref\TemepratureSecurity.dll
