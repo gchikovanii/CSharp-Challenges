@@ -26,14 +26,14 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinqToSqlDataClasses.dbml",
-              "DocumentMoniker": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\LinqToSqlDataClasses.dbml",
-              "RelativeDocumentMoniker": "LinqTOSql\\LinqToSqlDataClasses.dbml",
-              "ToolTip": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\LinqToSqlDataClasses.dbml",
-              "RelativeToolTip": "LinqTOSql\\LinqToSqlDataClasses.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2024-08-14T07:06:43.881Z",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LinqTOSql\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml",
+              "RelativeToolTip": "LinqTOSql\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-14T06:36:29.35Z",
               "EditorCaption": ""
             },
             {
@@ -44,21 +44,21 @@
               "RelativeDocumentMoniker": "LinqTOSql\\MainWindow.xaml.cs",
               "ToolTip": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml.cs",
               "RelativeToolTip": "LinqTOSql\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwCgAAAAQAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T06:36:28.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "LinqTOSql\\MainWindow.xaml",
-              "ToolTip": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml",
-              "RelativeToolTip": "LinqTOSql\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-14T06:36:29.35Z",
+              "DocumentIndex": 1,
+              "Title": "LinqToSqlDataClasses.dbml",
+              "DocumentMoniker": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\LinqToSqlDataClasses.dbml",
+              "RelativeDocumentMoniker": "LinqTOSql\\LinqToSqlDataClasses.dbml",
+              "ToolTip": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\LinqToSqlDataClasses.dbml",
+              "RelativeToolTip": "LinqTOSql\\LinqToSqlDataClasses.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-08-14T07:06:43.881Z",
               "EditorCaption": ""
             }
           ]
