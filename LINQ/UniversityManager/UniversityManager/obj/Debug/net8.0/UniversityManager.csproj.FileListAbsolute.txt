@@ -1,0 +1,15 @@
+D:\C#\LINQ\UniversityManager\UniversityManager\bin\Debug\net8.0\UniversityManager.exe
+D:\C#\LINQ\UniversityManager\UniversityManager\bin\Debug\net8.0\UniversityManager.deps.json
+D:\C#\LINQ\UniversityManager\UniversityManager\bin\Debug\net8.0\UniversityManager.runtimeconfig.json
+D:\C#\LINQ\UniversityManager\UniversityManager\bin\Debug\net8.0\UniversityManager.dll
+D:\C#\LINQ\UniversityManager\UniversityManager\bin\Debug\net8.0\UniversityManager.pdb
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\UniversityManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\UniversityManager.AssemblyInfoInputs.cache
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\UniversityManager.AssemblyInfo.cs
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\UniversityManager.csproj.CoreCompileInputs.cache
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\UniversityManager.sourcelink.json
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\UniversityManager.dll
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\refint\UniversityManager.dll
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\UniversityManager.pdb
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\UniversityManager.genruntimeconfig.cache
+D:\C#\LINQ\UniversityManager\UniversityManager\obj\Debug\net8.0\ref\UniversityManager.dll
