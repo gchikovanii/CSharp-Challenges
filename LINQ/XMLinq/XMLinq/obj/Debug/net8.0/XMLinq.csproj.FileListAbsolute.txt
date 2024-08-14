@@ -1,0 +1,15 @@
+D:\C#\LINQ\XMLinq\XMLinq\bin\Debug\net8.0\XMLinq.exe
+D:\C#\LINQ\XMLinq\XMLinq\bin\Debug\net8.0\XMLinq.deps.json
+D:\C#\LINQ\XMLinq\XMLinq\bin\Debug\net8.0\XMLinq.runtimeconfig.json
+D:\C#\LINQ\XMLinq\XMLinq\bin\Debug\net8.0\XMLinq.dll
+D:\C#\LINQ\XMLinq\XMLinq\bin\Debug\net8.0\XMLinq.pdb
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\XMLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\XMLinq.AssemblyInfoInputs.cache
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\XMLinq.AssemblyInfo.cs
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\XMLinq.csproj.CoreCompileInputs.cache
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\XMLinq.sourcelink.json
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\XMLinq.dll
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\refint\XMLinq.dll
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\XMLinq.pdb
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\XMLinq.genruntimeconfig.cache
+D:\C#\LINQ\XMLinq\XMLinq\obj\Debug\net8.0\ref\XMLinq.dll

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\LINQ\\LinqTOSql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5A3FEC-7619-4BC0-9366-72CCE3CA382E}|LinqTOSql\\LinqTOSql.csproj|D:\\C#\\LINQ\\LinqTOSql\\linqtosql\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5A3FEC-7619-4BC0-9366-72CCE3CA382E}|LinqTOSql\\LinqTOSql.csproj|solutionrelative:linqtosql\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5A3FEC-7619-4BC0-9366-72CCE3CA382E}|LinqTOSql\\LinqTOSql.csproj|d:\\c#\\linq\\linqtosql\\linqtosql\\linqtosqldataclasses.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{7F5A3FEC-7619-4BC0-9366-72CCE3CA382E}|LinqTOSql\\LinqTOSql.csproj|solutionrelative:linqtosql\\linqtosqldataclasses.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5A3FEC-7619-4BC0-9366-72CCE3CA382E}|LinqTOSql\\LinqTOSql.csproj|d:\\c#\\linq\\linqtosql\\linqtosql\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F5A3FEC-7619-4BC0-9366-72CCE3CA382E}|LinqTOSql\\LinqTOSql.csproj|solutionrelative:linqtosql\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqToSqlDataClasses.dbml",
+              "DocumentMoniker": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\LinqToSqlDataClasses.dbml",
+              "RelativeDocumentMoniker": "LinqTOSql\\LinqToSqlDataClasses.dbml",
+              "ToolTip": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\LinqToSqlDataClasses.dbml",
+              "RelativeToolTip": "LinqTOSql\\LinqToSqlDataClasses.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-08-14T07:06:43.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LinqTOSql\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LinqTOSql\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:36:28.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LinqTOSql\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\LINQ\\LinqTOSql\\LinqTOSql\\MainWindow.xaml",
+              "RelativeToolTip": "LinqTOSql\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-14T06:36:29.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
