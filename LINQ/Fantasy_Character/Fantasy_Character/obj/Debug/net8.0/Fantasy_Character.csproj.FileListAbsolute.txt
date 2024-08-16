@@ -1,0 +1,15 @@
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\Fantasy_Character.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\Fantasy_Character.AssemblyInfoInputs.cache
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\Fantasy_Character.AssemblyInfo.cs
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\Fantasy_Character.csproj.CoreCompileInputs.cache
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\Fantasy_Character.sourcelink.json
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\bin\Debug\net8.0\Fantasy_Character.exe
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\bin\Debug\net8.0\Fantasy_Character.deps.json
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\bin\Debug\net8.0\Fantasy_Character.runtimeconfig.json
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\bin\Debug\net8.0\Fantasy_Character.dll
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\bin\Debug\net8.0\Fantasy_Character.pdb
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\Fantasy_Character.dll
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\refint\Fantasy_Character.dll
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\Fantasy_Character.pdb
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\Fantasy_Character.genruntimeconfig.cache
+D:\C#\LINQ\Fantasy_Character\Fantasy_Character\obj\Debug\net8.0\ref\Fantasy_Character.dll
