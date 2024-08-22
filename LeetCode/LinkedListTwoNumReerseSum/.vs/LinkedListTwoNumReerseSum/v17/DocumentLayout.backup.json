@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BC41D243-4754-4152-8441-DD1F0DDF9235}|LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum.csproj|d:\\c#\\leetcode\\linkedlisttwonumreersesum\\linkedlisttwonumreersesum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC41D243-4754-4152-8441-DD1F0DDF9235}|LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum.csproj|solutionrelative:linkedlisttwonumreersesum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC41D243-4754-4152-8441-DD1F0DDF9235}|LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum.csproj|d:\\c#\\leetcode\\linkedlisttwonumreersesum\\linkedlisttwonumreersesum\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC41D243-4754-4152-8441-DD1F0DDF9235}|LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum.csproj|solutionrelative:linkedlisttwonumreersesum\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListNode.cs",
+              "DocumentMoniker": "D:\\C#\\LeetCode\\LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum\\ListNode.cs",
+              "RelativeDocumentMoniker": "LinkedListTwoNumReerseSum\\ListNode.cs",
+              "ToolTip": "D:\\C#\\LeetCode\\LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum\\ListNode.cs",
+              "RelativeToolTip": "LinkedListTwoNumReerseSum\\ListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:34:41.565Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\LeetCode\\LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum\\Program.cs",
               "RelativeDocumentMoniker": "LinkedListTwoNumReerseSum\\Program.cs",
-              "ToolTip": "D:\\C#\\LeetCode\\LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum\\Program.cs",
-              "RelativeToolTip": "LinkedListTwoNumReerseSum\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\C#\\LeetCode\\LinkedListTwoNumReerseSum\\LinkedListTwoNumReerseSum\\Program.cs*",
+              "RelativeToolTip": "LinkedListTwoNumReerseSum\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T08:34:17.477Z",
               "EditorCaption": ""
