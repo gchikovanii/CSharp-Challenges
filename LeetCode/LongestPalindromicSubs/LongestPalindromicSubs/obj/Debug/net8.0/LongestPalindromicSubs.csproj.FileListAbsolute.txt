@@ -1,0 +1,15 @@
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\LongestPalindromicSubs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\LongestPalindromicSubs.AssemblyInfoInputs.cache
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\LongestPalindromicSubs.AssemblyInfo.cs
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\LongestPalindromicSubs.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\LongestPalindromicSubs.sourcelink.json
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\bin\Debug\net8.0\LongestPalindromicSubs.exe
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\bin\Debug\net8.0\LongestPalindromicSubs.deps.json
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\bin\Debug\net8.0\LongestPalindromicSubs.runtimeconfig.json
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\bin\Debug\net8.0\LongestPalindromicSubs.dll
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\bin\Debug\net8.0\LongestPalindromicSubs.pdb
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\LongestPalindromicSubs.dll
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\refint\LongestPalindromicSubs.dll
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\LongestPalindromicSubs.pdb
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\LongestPalindromicSubs.genruntimeconfig.cache
+D:\C#\LeetCode\LongestPalindromicSubs\LongestPalindromicSubs\obj\Debug\net8.0\ref\LongestPalindromicSubs.dll
