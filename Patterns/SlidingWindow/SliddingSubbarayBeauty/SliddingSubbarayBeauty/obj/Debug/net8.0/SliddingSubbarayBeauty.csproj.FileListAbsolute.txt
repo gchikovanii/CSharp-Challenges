@@ -1,0 +1,15 @@
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\bin\Debug\net8.0\SliddingSubbarayBeauty.exe
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\bin\Debug\net8.0\SliddingSubbarayBeauty.deps.json
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\bin\Debug\net8.0\SliddingSubbarayBeauty.runtimeconfig.json
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\bin\Debug\net8.0\SliddingSubbarayBeauty.dll
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\bin\Debug\net8.0\SliddingSubbarayBeauty.pdb
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\SliddingSubbarayBeauty.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\SliddingSubbarayBeauty.AssemblyInfoInputs.cache
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\SliddingSubbarayBeauty.AssemblyInfo.cs
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\SliddingSubbarayBeauty.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\SliddingSubbarayBeauty.sourcelink.json
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\SliddingSubbarayBeauty.dll
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\refint\SliddingSubbarayBeauty.dll
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\SliddingSubbarayBeauty.pdb
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\SliddingSubbarayBeauty.genruntimeconfig.cache
+D:\C#\Patterns\SlidingWindow\SliddingSubbarayBeauty\SliddingSubbarayBeauty\obj\Debug\net8.0\ref\SliddingSubbarayBeauty.dll
