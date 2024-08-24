@@ -1,0 +1,15 @@
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\bin\Debug\net8.0\ZigZagConversation.exe
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\bin\Debug\net8.0\ZigZagConversation.deps.json
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\bin\Debug\net8.0\ZigZagConversation.runtimeconfig.json
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\bin\Debug\net8.0\ZigZagConversation.dll
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\bin\Debug\net8.0\ZigZagConversation.pdb
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ZigZagConversation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ZigZagConversation.AssemblyInfoInputs.cache
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ZigZagConversation.AssemblyInfo.cs
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ZigZagConversation.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ZigZagConversation.sourcelink.json
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ZigZagConversation.dll
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\refint\ZigZagConversation.dll
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ZigZagConversation.pdb
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ZigZagConversation.genruntimeconfig.cache
+D:\C#\LeetCode\ZigZagConversation\ZigZagConversation\obj\Debug\net8.0\ref\ZigZagConversation.dll
