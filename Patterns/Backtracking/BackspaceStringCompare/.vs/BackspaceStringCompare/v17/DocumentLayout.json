@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Patterns\\Backtracking\\BackspaceStringCompare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F7C975-2272-4D41-8700-6FBD31DDBB51}|BackspaceStringCompare\\BackspaceStringCompare.csproj|d:\\c#\\patterns\\backtracking\\backspacestringcompare\\backspacestringcompare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F7C975-2272-4D41-8700-6FBD31DDBB51}|BackspaceStringCompare\\BackspaceStringCompare.csproj|solutionrelative:backspacestringcompare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Patterns\\Backtracking\\BackspaceStringCompare\\BackspaceStringCompare\\Program.cs",
+              "RelativeDocumentMoniker": "BackspaceStringCompare\\Program.cs",
+              "ToolTip": "D:\\C#\\Patterns\\Backtracking\\BackspaceStringCompare\\BackspaceStringCompare\\Program.cs",
+              "RelativeToolTip": "BackspaceStringCompare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:58:05.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\bin\Debug\net8.0\BackspaceStringCompare.exe
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\bin\Debug\net8.0\BackspaceStringCompare.deps.json
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\bin\Debug\net8.0\BackspaceStringCompare.runtimeconfig.json
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\bin\Debug\net8.0\BackspaceStringCompare.dll
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\bin\Debug\net8.0\BackspaceStringCompare.pdb
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\BackspaceStringCompare.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\BackspaceStringCompare.AssemblyInfoInputs.cache
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\BackspaceStringCompare.AssemblyInfo.cs
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\BackspaceStringCompare.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\BackspaceStringCompare.sourcelink.json
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\BackspaceStringCompare.dll
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\refint\BackspaceStringCompare.dll
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\BackspaceStringCompare.pdb
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\BackspaceStringCompare.genruntimeconfig.cache
+D:\C#\Patterns\Backtracking\BackspaceStringCompare\BackspaceStringCompare\obj\Debug\net8.0\ref\BackspaceStringCompare.dll
