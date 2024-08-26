@@ -1,0 +1,15 @@
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\bin\Debug\net8.0\SquareOfSortedArr.exe
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\bin\Debug\net8.0\SquareOfSortedArr.deps.json
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\bin\Debug\net8.0\SquareOfSortedArr.runtimeconfig.json
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\bin\Debug\net8.0\SquareOfSortedArr.dll
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\bin\Debug\net8.0\SquareOfSortedArr.pdb
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\SquareOfSortedArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\SquareOfSortedArr.AssemblyInfoInputs.cache
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\SquareOfSortedArr.AssemblyInfo.cs
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\SquareOfSortedArr.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\SquareOfSortedArr.sourcelink.json
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\SquareOfSortedArr.dll
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\refint\SquareOfSortedArr.dll
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\SquareOfSortedArr.pdb
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\SquareOfSortedArr.genruntimeconfig.cache
+D:\C#\Patterns\TwoPointers\SquareOfSortedArr\SquareOfSortedArr\obj\Debug\net8.0\ref\SquareOfSortedArr.dll
