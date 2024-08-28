@@ -1,0 +1,15 @@
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\bin\Debug\net8.0\MergeIntervals.exe
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\bin\Debug\net8.0\MergeIntervals.deps.json
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\bin\Debug\net8.0\MergeIntervals.runtimeconfig.json
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\bin\Debug\net8.0\MergeIntervals.dll
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\bin\Debug\net8.0\MergeIntervals.pdb
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\MergeIntervals.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\MergeIntervals.AssemblyInfoInputs.cache
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\MergeIntervals.AssemblyInfo.cs
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\MergeIntervals.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\MergeIntervals.sourcelink.json
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\MergeIntervals.dll
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\refint\MergeIntervals.dll
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\MergeIntervals.pdb
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\MergeIntervals.genruntimeconfig.cache
+D:\C#\Patterns\MergeIntervals\MergeIntervals\MergeIntervals\obj\Debug\net8.0\ref\MergeIntervals.dll
