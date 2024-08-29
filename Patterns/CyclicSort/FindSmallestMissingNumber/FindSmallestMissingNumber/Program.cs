@@ -1,8 +1,8 @@
 ﻿
-int[] nums = [9, 6, 4, 2, -3, 5, 7, 0, 1];
-int missingNumber = SmallestMissingNumber(nums);
+int[] nums = [2, 3, 4, 7, 11];
+int missingNumber = SmallestMissingNumber(nums, 5);
 Console.WriteLine(missingNumber); 
-static int SmallestMissingNumber(int[] nums) 
+static int SmallestMissingNumber(int[] nums, int k) 
 {
     for (int i = 0; i < nums.Length; i++)
     {
@@ -14,11 +14,16 @@ static int SmallestMissingNumber(int[] nums)
             nums[i] = temp;
         }
     }
-
-
-    for (int i = 0; i < nums.Length; i++)
+    int counter = 0;
+    var toComp = nums.Max(i => i);
+    for (int i = 0; i < toComp; i++)
     {
-        if (nums[i] != i + 1)
+        if (nums[i] != i && counter != k)
+        {
+            counter++;
+            continue;
+        }
+        else if (nums[i] != i + 1 && counter == k)
             return i + 1;
     }
     return nums.Length + 1;

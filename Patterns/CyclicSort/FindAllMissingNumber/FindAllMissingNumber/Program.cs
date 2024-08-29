@@ -1,5 +1,5 @@
 ﻿
-int[] nums = [9, 6, 4, 2, 3, 5, 7, 0, 1];
+int[] nums =[2, 3,0,1, 4, 7, 11];
 Console.WriteLine(MissingNumber(nums));
 
 static int MissingNumber(int[] nums)
@@ -21,11 +21,13 @@ static int MissingNumber(int[] nums)
 			nums[counter] = temp;
 		}
 	}
-
-	for (int i = 0; i < nums.Length; i++)
+	int cc = 0;
+	for (int i = 0; i < nums[nums.Length - 1]; i++)
 	{
 		if (nums[i] != i)
-			return i;
+			cc++;
+		else if (nums[i] != i && cc == 5)
+			return i + 1;
 	}
 	return nums.Length;
 }
