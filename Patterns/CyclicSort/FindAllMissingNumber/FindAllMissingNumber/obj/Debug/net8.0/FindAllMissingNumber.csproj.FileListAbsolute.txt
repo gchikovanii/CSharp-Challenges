@@ -1,0 +1,15 @@
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\FindAllMissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\FindAllMissingNumber.AssemblyInfoInputs.cache
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\FindAllMissingNumber.AssemblyInfo.cs
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\FindAllMissingNumber.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\FindAllMissingNumber.sourcelink.json
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\bin\Debug\net8.0\FindAllMissingNumber.exe
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\bin\Debug\net8.0\FindAllMissingNumber.deps.json
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\bin\Debug\net8.0\FindAllMissingNumber.runtimeconfig.json
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\bin\Debug\net8.0\FindAllMissingNumber.dll
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\bin\Debug\net8.0\FindAllMissingNumber.pdb
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\FindAllMissingNumber.dll
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\refint\FindAllMissingNumber.dll
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\FindAllMissingNumber.pdb
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\FindAllMissingNumber.genruntimeconfig.cache
+D:\C#\Patterns\CyclicSort\FindAllMissingNumber\FindAllMissingNumber\obj\Debug\net8.0\ref\FindAllMissingNumber.dll
