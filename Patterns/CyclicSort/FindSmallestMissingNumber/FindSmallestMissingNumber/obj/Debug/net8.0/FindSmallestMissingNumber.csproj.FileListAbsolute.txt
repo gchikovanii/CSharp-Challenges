@@ -1,0 +1,15 @@
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\bin\Debug\net8.0\FindSmallestMissingNumber.exe
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\bin\Debug\net8.0\FindSmallestMissingNumber.deps.json
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\bin\Debug\net8.0\FindSmallestMissingNumber.runtimeconfig.json
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\bin\Debug\net8.0\FindSmallestMissingNumber.dll
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\bin\Debug\net8.0\FindSmallestMissingNumber.pdb
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\FindSmallestMissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\FindSmallestMissingNumber.AssemblyInfoInputs.cache
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\FindSmallestMissingNumber.AssemblyInfo.cs
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\FindSmallestMissingNumber.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\FindSmallestMissingNumber.sourcelink.json
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\FindSmallestMissingNumber.dll
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\refint\FindSmallestMissingNumber.dll
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\FindSmallestMissingNumber.pdb
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\FindSmallestMissingNumber.genruntimeconfig.cache
+D:\C#\Patterns\CyclicSort\FindSmallestMissingNumber\FindSmallestMissingNumber\obj\Debug\net8.0\ref\FindSmallestMissingNumber.dll
