@@ -1,0 +1,15 @@
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+D:\C#\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
