@@ -8,7 +8,7 @@ var onPermison = new OnPermissionMailServie();
 onPermison.SendMail("Hi there perm. ");
 
 var statiscticDecorator = new StatisticsDecorator(cloudMailService);
-statiscticDecorator.SendMail($"Sending via {nameof(StatisticsDecorator)}");
+statiscticDecorator.SendMail($"Sending via {nameof(StatisticsDecorator)} from console. ");
 
 var messageDatabaseDecorator = new DatabaseDecorator(onPermison);
 messageDatabaseDecorator.SendMail($"Meesage 1 from {nameof(DatabaseDecorator)}");
