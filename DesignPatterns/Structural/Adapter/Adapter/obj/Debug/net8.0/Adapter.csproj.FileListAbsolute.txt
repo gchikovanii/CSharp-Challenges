@@ -1,0 +1,15 @@
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\bin\Debug\net8.0\Adapter.exe
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\bin\Debug\net8.0\Adapter.deps.json
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\bin\Debug\net8.0\Adapter.dll
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\bin\Debug\net8.0\Adapter.pdb
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\Adapter.sourcelink.json
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\Adapter.dll
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\Adapter.pdb
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+D:\C#\DesignPatterns\Structural\Adapter\Adapter\obj\Debug\net8.0\ref\Adapter.dll
