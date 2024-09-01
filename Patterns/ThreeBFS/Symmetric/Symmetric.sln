@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symmetric", "Symmetric\Symmetric.csproj", "{B519C9FF-8D19-4F23-9D5A-A88621645C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B519C9FF-8D19-4F23-9D5A-A88621645C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B519C9FF-8D19-4F23-9D5A-A88621645C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B519C9FF-8D19-4F23-9D5A-A88621645C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B519C9FF-8D19-4F23-9D5A-A88621645C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725DD550-A057-4843-BC95-F3EDE91A2AF5}
+	EndGlobalSection
+EndGlobal
