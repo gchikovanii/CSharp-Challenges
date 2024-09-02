@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Patterns\\TreeDFS\\BlanacedBinaryTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC4D7A4-3DB9-441A-AC6E-654F866C2C87}|BlanacedBinaryTree\\BlanacedBinaryTree.csproj|d:\\c#\\patterns\\treedfs\\blanacedbinarytree\\blanacedbinarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC4D7A4-3DB9-441A-AC6E-654F866C2C87}|BlanacedBinaryTree\\BlanacedBinaryTree.csproj|solutionrelative:blanacedbinarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Patterns\\TreeDFS\\BlanacedBinaryTree\\BlanacedBinaryTree\\Program.cs",
+              "RelativeDocumentMoniker": "BlanacedBinaryTree\\Program.cs",
+              "ToolTip": "D:\\C#\\Patterns\\TreeDFS\\BlanacedBinaryTree\\BlanacedBinaryTree\\Program.cs",
+              "RelativeToolTip": "BlanacedBinaryTree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:18:26.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

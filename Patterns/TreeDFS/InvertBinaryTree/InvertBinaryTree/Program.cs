@@ -1,6 +1,4 @@
 ﻿
-
-
 static TreeNode InvertTree(TreeNode root)
 {
     if (root == null)
