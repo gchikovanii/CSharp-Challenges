@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C#\\DesignPatterns\\Facade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B351E6CB-0203-4861-A614-ECC71DC2E71A}|Facade\\Facade.csproj|d:\\c#\\designpatterns\\facade\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B351E6CB-0203-4861-A614-ECC71DC2E71A}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B351E6CB-0203-4861-A614-ECC71DC2E71A}|Facade\\Facade.csproj|d:\\c#\\designpatterns\\facade\\facade\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B351E6CB-0203-4861-A614-ECC71DC2E71A}|Facade\\Facade.csproj|solutionrelative:facade\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B351E6CB-0203-4861-A614-ECC71DC2E71A}|Facade\\Facade.csproj|d:\\c#\\designpatterns\\facade\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B351E6CB-0203-4861-A614-ECC71DC2E71A}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Implementation.cs",
               "DocumentMoniker": "D:\\C#\\DesignPatterns\\Facade\\Facade\\Implementation.cs",
               "RelativeDocumentMoniker": "Facade\\Implementation.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\DesignPatterns\\Facade\\Facade\\Program.cs",
               "RelativeDocumentMoniker": "Facade\\Program.cs",

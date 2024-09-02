@@ -1,0 +1,15 @@
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\bin\Debug\net8.0\KthLargestElementInStream.exe
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\bin\Debug\net8.0\KthLargestElementInStream.deps.json
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\bin\Debug\net8.0\KthLargestElementInStream.runtimeconfig.json
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\bin\Debug\net8.0\KthLargestElementInStream.dll
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\bin\Debug\net8.0\KthLargestElementInStream.pdb
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\KthLargestElementInStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\KthLargestElementInStream.AssemblyInfoInputs.cache
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\KthLargestElementInStream.AssemblyInfo.cs
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\KthLargestElementInStream.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\KthLargestElementInStream.sourcelink.json
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\KthLargestElementInStream.dll
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\refint\KthLargestElementInStream.dll
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\KthLargestElementInStream.pdb
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\KthLargestElementInStream.genruntimeconfig.cache
+D:\C#\Patterns\TwoHeaps\KthLargestElementInStream\KthLargestElementInStream\obj\Debug\net8.0\ref\KthLargestElementInStream.dll
