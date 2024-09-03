@@ -14,3 +14,6 @@ charObj?.Draw("Google Fonts Default", 14);
 
 charObj = characterFacotyr.GetCharacter(characters[3]);
 charObj?.Draw("Mememento", 12);
+
+var paragraph = characterFacotyr.CreateParagraph(new List<ICharacter>() { charObj }, 1);
+paragraph.Draw("Sylfaen", 12);

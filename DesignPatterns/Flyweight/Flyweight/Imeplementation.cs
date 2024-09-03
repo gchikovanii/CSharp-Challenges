@@ -53,6 +53,31 @@
             }
             return null;
         }
+        //Unshared Concrete Flyweight
+        public ICharacter CreateParagraph(List<ICharacter> characters, int location)
+        {
+            return new Paragraph(location, characters);
+        }
     }
+    //Unshared Concrete Flyweight
+    public class Paragraph : ICharacter
+    {
+        private int _location;
+        private List<ICharacter> _characters = new();
 
+        public Paragraph(int location, List<ICharacter> characters)
+        {
+            _location = location;
+            _characters = characters;
+        }
+
+        public void Draw(string fontFamily, int fontSize)
+        {
+            Console.WriteLine($"Drawing in paragraph at location {_location}");
+            foreach (var character in _characters)
+            {
+                character.Draw(fontFamily, fontSize);
+            }
+        }
+    }
 }
