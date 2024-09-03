@@ -1,0 +1,15 @@
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\bin\Debug\net8.0\LetterCasePermutation.exe
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\bin\Debug\net8.0\LetterCasePermutation.deps.json
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\bin\Debug\net8.0\LetterCasePermutation.runtimeconfig.json
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\bin\Debug\net8.0\LetterCasePermutation.dll
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\bin\Debug\net8.0\LetterCasePermutation.pdb
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\LetterCasePermutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\LetterCasePermutation.AssemblyInfoInputs.cache
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\LetterCasePermutation.AssemblyInfo.cs
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\LetterCasePermutation.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\LetterCasePermutation.sourcelink.json
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\LetterCasePermutation.dll
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\refint\LetterCasePermutation.dll
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\LetterCasePermutation.pdb
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\LetterCasePermutation.genruntimeconfig.cache
+D:\C#\Patterns\Subset\LetterCasePermutation\LetterCasePermutation\obj\Debug\net8.0\ref\LetterCasePermutation.dll
