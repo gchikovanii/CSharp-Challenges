@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C#\\DesignPatterns\\Proxy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA7828A3-8A26-45B9-B004-59D2F64B77F7}|Proxy\\Proxy.csproj|d:\\c#\\designpatterns\\proxy\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7828A3-8A26-45B9-B004-59D2F64B77F7}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA7828A3-8A26-45B9-B004-59D2F64B77F7}|Proxy\\Proxy.csproj|d:\\c#\\designpatterns\\proxy\\proxy\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA7828A3-8A26-45B9-B004-59D2F64B77F7}|Proxy\\Proxy.csproj|solutionrelative:proxy\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7828A3-8A26-45B9-B004-59D2F64B77F7}|Proxy\\Proxy.csproj|d:\\c#\\designpatterns\\proxy\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7828A3-8A26-45B9-B004-59D2F64B77F7}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Implementation.cs",
               "DocumentMoniker": "D:\\C#\\DesignPatterns\\Proxy\\Proxy\\Implementation.cs",
               "RelativeDocumentMoniker": "Proxy\\Implementation.cs",
               "ToolTip": "D:\\C#\\DesignPatterns\\Proxy\\Proxy\\Implementation.cs",
               "RelativeToolTip": "Proxy\\Implementation.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwDIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T02:26:28.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\DesignPatterns\\Proxy\\Proxy\\Program.cs",
               "RelativeDocumentMoniker": "Proxy\\Program.cs",
               "ToolTip": "D:\\C#\\DesignPatterns\\Proxy\\Proxy\\Program.cs",
               "RelativeToolTip": "Proxy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T02:26:17.795Z",
               "EditorCaption": ""
