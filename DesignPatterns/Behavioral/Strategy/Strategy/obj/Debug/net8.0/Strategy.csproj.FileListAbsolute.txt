@@ -1,0 +1,15 @@
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\bin\Debug\net8.0\Strategy.exe
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\bin\Debug\net8.0\Strategy.deps.json
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\bin\Debug\net8.0\Strategy.dll
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\bin\Debug\net8.0\Strategy.pdb
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\Strategy.sourcelink.json
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\Strategy.dll
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\Strategy.pdb
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+D:\C#\DesignPatterns\Behavioral\Strategy\Strategy\obj\Debug\net8.0\ref\Strategy.dll
