@@ -1,0 +1,15 @@
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\bin\Debug\net8.0\BinarySearchTask.exe
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\bin\Debug\net8.0\BinarySearchTask.deps.json
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\bin\Debug\net8.0\BinarySearchTask.runtimeconfig.json
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\bin\Debug\net8.0\BinarySearchTask.dll
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\bin\Debug\net8.0\BinarySearchTask.pdb
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\BinarySearchTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\BinarySearchTask.AssemblyInfoInputs.cache
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\BinarySearchTask.AssemblyInfo.cs
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\BinarySearchTask.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\BinarySearchTask.sourcelink.json
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\BinarySearchTask.dll
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\refint\BinarySearchTask.dll
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\BinarySearchTask.pdb
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\BinarySearchTask.genruntimeconfig.cache
+D:\C#\Patterns\BinarySearch\BinarySearchTask\BinarySearchTask\obj\Debug\net8.0\ref\BinarySearchTask.dll
