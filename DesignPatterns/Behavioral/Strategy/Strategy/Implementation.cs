@@ -15,9 +15,11 @@
         public string? Description { get; set; }
 
         public IExportService? ExportService { get; set; }
-        public void Export()
+        public void Export(IExportService exportService)
         {
-            ExportService?.Export(this);
+            if(exportService is null)
+                throw new ArgumentNullException(nameof(exportService));
+            exportService.Export(this);
         }
     }
     public interface IExportService
