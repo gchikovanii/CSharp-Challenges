@@ -1,0 +1,15 @@
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.exe
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.deps.json
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.runtimeconfig.json
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.dll
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.pdb
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.AssemblyInfoInputs.cache
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.AssemblyInfo.cs
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.csproj.CoreCompileInputs.cache
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.sourcelink.json
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.dll
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\refint\TopKFrequentElement.dll
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.pdb
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.genruntimeconfig.cache
+D:\C#\Patterns\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\ref\TopKFrequentElement.dll
