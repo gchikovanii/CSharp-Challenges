@@ -1,0 +1,15 @@
+D:\C#\DesignPatterns\Command\Command\bin\Debug\net8.0\Command.exe
+D:\C#\DesignPatterns\Command\Command\bin\Debug\net8.0\Command.deps.json
+D:\C#\DesignPatterns\Command\Command\bin\Debug\net8.0\Command.runtimeconfig.json
+D:\C#\DesignPatterns\Command\Command\bin\Debug\net8.0\Command.dll
+D:\C#\DesignPatterns\Command\Command\bin\Debug\net8.0\Command.pdb
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\Command.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\Command.AssemblyInfo.cs
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\Command.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\Command.sourcelink.json
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\Command.dll
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\refint\Command.dll
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\Command.pdb
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\Command.genruntimeconfig.cache
+D:\C#\DesignPatterns\Command\Command\obj\Debug\net8.0\ref\Command.dll
