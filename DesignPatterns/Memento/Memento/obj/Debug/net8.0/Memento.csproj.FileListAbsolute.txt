@@ -1,0 +1,15 @@
+D:\C#\DesignPatterns\Memento\Memento\bin\Debug\net8.0\Memento.exe
+D:\C#\DesignPatterns\Memento\Memento\bin\Debug\net8.0\Memento.deps.json
+D:\C#\DesignPatterns\Memento\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+D:\C#\DesignPatterns\Memento\Memento\bin\Debug\net8.0\Memento.dll
+D:\C#\DesignPatterns\Memento\Memento\bin\Debug\net8.0\Memento.pdb
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\Memento.sourcelink.json
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\Memento.dll
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\refint\Memento.dll
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\Memento.pdb
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+D:\C#\DesignPatterns\Memento\Memento\obj\Debug\net8.0\ref\Memento.dll
