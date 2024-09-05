@@ -21,9 +21,9 @@
     }
     public interface IEmployeeRepository
     {
-        void AddEmployee(int managerId,  Employee employee);
-        void RemoveEmployee(int managerId,  Employee employee);
-        bool HasEmployee(int managerId,  int employeeId);
+        void AddEmployee(int managerId, Employee employee);
+        void RemoveEmployee(int managerId, Employee employee);
+        bool HasEmployee(int managerId, int employeeId);
         void WriteDataStore();
     }
     public class EmployeeRepository : IEmployeeRepository
@@ -32,7 +32,7 @@
 
         public void AddEmployee(int managerId, Employee employee)
         {
-           _managers.First(i => i.Id == managerId).Employees.Add(employee);
+            _managers.First(i => i.Id == managerId).Employees.Add(employee);
         }
 
         public bool HasEmployee(int managerId, int employeeId)
@@ -69,6 +69,7 @@
     {
         void Execute();
         bool CanExecute();
+        void Undo();
     }
     public class AddEmployeeToManagerList : ICommand
     {
@@ -85,25 +86,50 @@
 
         public bool CanExecute()
         {
-            if(_employee == null)
+            if (_employee == null)
                 return false;
-            if (_managerRepository.HasEmployee(_managerId, _employee.Id)) 
+            if (_managerRepository.HasEmployee(_managerId, _employee.Id))
                 return false;
             return true;
         }
 
         public void Execute()
         {
-            if(_employee == null)
+            if (_employee == null)
                 return;
             _managerRepository.AddEmployee(_managerId, _employee);
         }
+        public void Undo()
+        {
+            if (_employee == null)
+                return;
+            _managerRepository.RemoveEmployee(_managerId, _employee);
+        }
         public class CommandManager
         {
+            private readonly Stack<ICommand> _commands = new Stack<ICommand>();
             public void Invoke(ICommand command)
             {
-                if(command.CanExecute())
+                if (command.CanExecute())
+                {
                     command.Execute();
+                    _commands.Push(command);
+                }
+
+            }
+            public void Undo()
+            {
+                if (_commands.Any())
+                {
+                    _commands.Pop()?.Undo();
+                }
+            }
+            public void UndoAll()
+            {
+                while (_commands.Any())
+                {
+                    _commands.Pop()?.Undo();
+                }
             }
         }
     }
