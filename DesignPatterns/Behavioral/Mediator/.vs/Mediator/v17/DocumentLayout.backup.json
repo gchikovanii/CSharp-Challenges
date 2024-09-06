@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E15CE31D-C1F1-47D0-8E52-1FA0688B953D}|Mediator\\Mediator.csproj|d:\\c#\\designpatterns\\behavioral\\mediator\\mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E15CE31D-C1F1-47D0-8E52-1FA0688B953D}|Mediator\\Mediator.csproj|solutionrelative:mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15CE31D-C1F1-47D0-8E52-1FA0688B953D}|Mediator\\Mediator.csproj|d:\\c#\\designpatterns\\behavioral\\mediator\\mediator\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15CE31D-C1F1-47D0-8E52-1FA0688B953D}|Mediator\\Mediator.csproj|solutionrelative:mediator\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Implementation.cs",
-              "DocumentMoniker": "D:\\C#\\DesignPatterns\\Behavioral\\Mediator\\Mediator\\Implementation.cs",
-              "RelativeDocumentMoniker": "Mediator\\Implementation.cs",
-              "ToolTip": "D:\\C#\\DesignPatterns\\Behavioral\\Mediator\\Mediator\\Implementation.cs",
-              "RelativeToolTip": "Mediator\\Implementation.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA9wB8AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T02:21:32.896Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "Mediator\\Program.cs",
               "ToolTip": "D:\\C#\\DesignPatterns\\Behavioral\\Mediator\\Mediator\\Program.cs",
               "RelativeToolTip": "Mediator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T02:20:47.172Z",
               "EditorCaption": ""
