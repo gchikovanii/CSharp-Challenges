@@ -1,0 +1,15 @@
+D:\C#\DesignPatterns\Behavioral\State\State\bin\Debug\net8.0\State.exe
+D:\C#\DesignPatterns\Behavioral\State\State\bin\Debug\net8.0\State.deps.json
+D:\C#\DesignPatterns\Behavioral\State\State\bin\Debug\net8.0\State.runtimeconfig.json
+D:\C#\DesignPatterns\Behavioral\State\State\bin\Debug\net8.0\State.dll
+D:\C#\DesignPatterns\Behavioral\State\State\bin\Debug\net8.0\State.pdb
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\State.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\State.AssemblyInfo.cs
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\State.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\State.sourcelink.json
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\State.dll
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\refint\State.dll
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\State.pdb
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\State.genruntimeconfig.cache
+D:\C#\DesignPatterns\Behavioral\State\State\obj\Debug\net8.0\ref\State.dll

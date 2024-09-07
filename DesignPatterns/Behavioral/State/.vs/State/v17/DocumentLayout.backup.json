@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{37A35593-B6B2-41E1-8DFC-A1B62DE0144D}|State\\State.csproj|d:\\c#\\designpatterns\\behavioral\\state\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37A35593-B6B2-41E1-8DFC-A1B62DE0144D}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A35593-B6B2-41E1-8DFC-A1B62DE0144D}|State\\State.csproj|d:\\c#\\designpatterns\\behavioral\\state\\state\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A35593-B6B2-41E1-8DFC-A1B62DE0144D}|State\\State.csproj|solutionrelative:state\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Implementation.cs",
+              "DocumentMoniker": "D:\\C#\\DesignPatterns\\Behavioral\\State\\State\\Implementation.cs",
+              "RelativeDocumentMoniker": "State\\Implementation.cs",
+              "ToolTip": "D:\\C#\\DesignPatterns\\Behavioral\\State\\State\\Implementation.cs",
+              "RelativeToolTip": "State\\Implementation.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T02:30:38.664Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "State\\Program.cs",
               "ToolTip": "D:\\C#\\DesignPatterns\\Behavioral\\State\\State\\Program.cs",
               "RelativeToolTip": "State\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T02:30:11.102Z",
               "EditorCaption": ""
